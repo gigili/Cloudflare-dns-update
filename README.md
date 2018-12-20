@@ -7,7 +7,7 @@ Also the good thing about this is that you can use it for any of your domains / 
 
 ***Requirements:***
 - Basic knowledge of shell scripting
-- You domain nameservers pointing to Cloudflare
+- Your domain nameservers pointing to Cloudflare
 - [sSMTP ](https://www.linux.com/news/ssmtp-simple-alternative-sendmail) - used to send an email if the update fails 
 
 ***NOTE:***
