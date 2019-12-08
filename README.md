@@ -10,6 +10,9 @@ Also the good thing about this is that you can use it for any of your domains / 
 - Your domain nameservers pointing to Cloudflare
 - [sSMTP ](https://www.linux.com/news/ssmtp-simple-alternative-sendmail) - used to send an email if the update fails 
 
+Read my article on how and why I created this script on [dev.to](https://dev.to/gigilibl/cloudflare-dns-update---free-alternative-to-ddns-437c)
+
+
 ***NOTE:***
 
 ***I take no responsibility*** should this script break your dns records and/or anything else. By using it, you acknowledge that you understand what this script does and how it may affect you in any way.
