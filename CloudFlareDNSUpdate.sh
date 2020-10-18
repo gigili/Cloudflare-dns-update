@@ -4,7 +4,7 @@
 #clear
 
 #Get the public IP address of the server
-myIP=`dig +short myip.opendns.com @resolver1.opendns.com`
+myIP=`dig -4 +short myip.opendns.com @resolver1.opendns.com`
 
 #Store the cloudflare zone ID
 #Get this information from your cloudflare dashboard
