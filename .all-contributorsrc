@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "jenszo",
+      "name": "Jens Nachtigall",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6693266?v=4",
+      "profile": "https://github.com/jenszo",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Cloudflare-dns-update",
+  "projectOwner": "gigili",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
